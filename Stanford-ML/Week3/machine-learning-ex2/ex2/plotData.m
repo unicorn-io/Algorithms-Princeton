@@ -13,8 +13,8 @@ figure; hold on;
 %
 one = find(y==1);
 zero = find(y==0);
-plot(X(one), y(one), 'k+', 'MarkerSize', 7, 'LineWidth', 1.2);
-plot(X(zero), y(zero), 'ko', 'MarkerSize', 7, 'LineWidth', 1.2);
+plot(X(one, 1), X(one, 2), 'k+', 'MarkerSize', 7, 'LineWidth', 1.2);
+plot(X(zero, 1), X(zero, 2), 'ko', 'MarkerSize', 7, 'LineWidth', 1.2);
 % =========================================================================
 
 
