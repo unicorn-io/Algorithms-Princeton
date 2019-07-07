@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c1e4f978-b3bd-4ae1-84e9-9e1170bce808" name="Default" comment="" />
+    <list default="true" id="c1e4f978-b3bd-4ae1-84e9-9e1170bce808" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PercolationStats.java" beforeDir="false" afterPath="$PROJECT_DIR$/PercolationStats.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Stanford-ML/Week2/machine-learning-ex1/ex1/ex1_multi.m" beforeDir="false" afterPath="$PROJECT_DIR$/../../Stanford-ML/Week2/machine-learning-ex1/ex1/ex1_multi.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Stanford-ML/Week2/machine-learning-ex1/ex1/gradientDescent.m" beforeDir="false" afterPath="$PROJECT_DIR$/../../Stanford-ML/Week2/machine-learning-ex1/ex1/gradientDescent.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Stanford-ML/Week9/machine-learning-ex8/ex8/cofiCostFunc.asv" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.idea/" />
     <ignored path="$PROJECT_DIR$/lift/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,16 +46,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Percolation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="24" column="16" lean-forward="true" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
-              <folding>
-                <element signature="e#3075#3076#0" expanded="true" />
-                <element signature="e#3115#3116#0" expanded="true" />
-                <element signature="e#3150#3151#0" expanded="true" />
-                <element signature="e#3209#3210#0" expanded="true" />
-                <element signature="e#3264#3265#0" expanded="true" />
-                <element signature="e#3301#3302#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="238">
+              <caret line="18" column="33" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -68,16 +67,19 @@
     <runInBackground>true</runInBackground>
     <toolWindowToFront>false</toolWindowToFront>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Percolation1.java" />
-        <option value="$PROJECT_DIR$/Percolation.java" />
         <option value="$PROJECT_DIR$/PercolationStats.java" />
         <option value="$PROJECT_DIR$/InteractivePercolationVisualizer.java" />
         <option value="$PROJECT_DIR$/PercolationVisualizer.java" />
         <option value="$PROJECT_DIR$/Deque.java" />
         <option value="$PROJECT_DIR$/RandomizedQueue.java" />
+        <option value="$PROJECT_DIR$/Percolation.java" />
       </list>
     </option>
   </component>
@@ -87,6 +89,7 @@
     <option name="width" value="940" />
     <option name="height" value="765" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <showLibraryContents PackagesPane="false" />
@@ -96,7 +99,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -109,6 +111,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -117,7 +120,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545465572267" />
-    <property name="last_opened_file_path" value="D:/Fugacious" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="org.infernus.idea.checkstyle.CheckStyleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -199,11 +202,13 @@
       <workItem from="1546709457319" duration="1051000" />
       <workItem from="1546882582720" duration="1431000" />
       <workItem from="1546885737984" duration="18000" />
+      <workItem from="1562474579848" duration="52000" />
+      <workItem from="1562478986184" duration="310000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2686000" />
+    <option name="totallyTimeSpent" value="3048000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -216,8 +221,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22281879" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2295302" />
       <window_info id="Structure" order="1" show_stripe_button="false" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" show_stripe_button="false" side_tool="true" />
@@ -234,7 +240,7 @@
       <window_info anchor="bottom" id="TODO" order="6" show_stripe_button="false" weight="0.32904148" />
       <window_info anchor="bottom" id="CheckStyle" order="7" weight="0.2761394" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3297587" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3297587" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3297587" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="12" weight="0.18364611" />
@@ -422,16 +428,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Percolation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="24" column="16" lean-forward="true" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
-          <folding>
-            <element signature="e#3075#3076#0" expanded="true" />
-            <element signature="e#3115#3116#0" expanded="true" />
-            <element signature="e#3150#3151#0" expanded="true" />
-            <element signature="e#3209#3210#0" expanded="true" />
-            <element signature="e#3264#3265#0" expanded="true" />
-            <element signature="e#3301#3302#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="238">
+          <caret line="18" column="33" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="33" />
         </state>
       </provider>
     </entry>

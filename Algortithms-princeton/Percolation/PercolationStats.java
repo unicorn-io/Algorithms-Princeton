@@ -1,8 +1,8 @@
 /* *****************************************************************************
- *  Name:
- *  Date:
- *  Description:
+ *  Name: Vishesh Tayal (unicorn-io)
+ *  Description: Percolation back-end.
  **************************************************************************** */
+
 
 import edu.princeton.cs.algs4.StdRandom;
 import edu.princeton.cs.algs4.StdStats;
