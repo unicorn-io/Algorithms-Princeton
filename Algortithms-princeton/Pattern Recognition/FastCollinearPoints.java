@@ -4,12 +4,16 @@ import edu.princeton.cs.algs4.StdDraw;
 import edu.princeton.cs.algs4.In;
 import edu.princeton.cs.algs4.StdOut;
 
-/**
- * Created by zhanlgu on 16/9/25.
- */
+
 public class FastCollinearPoints {
     private LineSegment[] lineSegments;
 
+    /**
+     *                  Sorts the array w.r.t a point and now checks for the slope minimums
+     *                  to calculate the collinearity with the points.
+     *  
+     * @param points    The points array to be searched on.
+     */
     public FastCollinearPoints(Point[] points) {
         checkException(points);
         ArrayList<LineSegment> storeSegments = new ArrayList<LineSegment>();
@@ -28,9 +32,6 @@ public class FastCollinearPoints {
                         Arrays.sort(copyPoints, i - count, i);
                         if (point.compareTo(copyPoints[i - count]) < 0)
                             storeSegments.add(new LineSegment(point, copyPoints[i - 1]));
-                        //                        else
-                        //                            storeSegments.add(new LineSegment(copyPoints[i - count], point));
-                        //                        storeSegments.add(new LineSegment(copyPoints[i - count], copyPoints[i]));
                     }
                     tmpSlope = point.slopeTo(copyPoints[i]);
                     count = 1;
@@ -40,21 +41,30 @@ public class FastCollinearPoints {
                 Arrays.sort(copyPoints, i - count, i);
                 if (point.compareTo(copyPoints[i - count]) < 0)
                     storeSegments.add(new LineSegment(point, copyPoints[i - 1]));
-                //                        storeSegments.add(new LineSegment(copyPoints[i - count], copyPoints[i]));
             }
         }
         lineSegments = storeSegments.toArray(new LineSegment[storeSegments.size()]);
     }
 
+    /**
+     * @return    number of line segments.
+     */
     public int numberOfSegments() {
         return lineSegments.length;
     }
 
+    /**
+     * @return    The array of line segments.
+     */
     public LineSegment[] segments() {
-        //        return Arrays.copyOf(lineSegments, numberOfSegments());
         return lineSegments.clone();
     }
 
+    /**
+     *                  Checks for data validity.
+     * 
+     * @param points    The points array to be checked.
+     */
     private void checkException(Point[] points) {
         if (points == null) throw new java.lang.NullPointerException();
         for (int i = 0; i < points.length - 1; i++) {

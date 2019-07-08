@@ -9,7 +9,11 @@ public class BruteCollinearPoints {
     private ArrayList<LineSegment> allSegments = new ArrayList<LineSegment>();
     private LineSegment a;
 
-
+    /**
+     *                  Brute forces through all the points for collinearity.
+     *  
+     * @param points    The points array to be searched on.
+     */
     public BruteCollinearPoints(Point[] points)  {
         if (points == null) {
             throw new java.lang.IllegalArgumentException("Bad Input!");
@@ -40,12 +44,16 @@ public class BruteCollinearPoints {
                 }
     }   // finds all line segments containing 4 points
 
-
+    /**
+     * @return    number of line segments.
+     */
     public int numberOfSegments() {
         return allSegments.size();
     }       // the number of line segments
 
-
+    /**
+     * @return    The array of line segments.
+     */
     public LineSegment[] segments() {
         LineSegment[] returner = allSegments.toArray(new LineSegment[allSegments.size()]);
         return returner;
