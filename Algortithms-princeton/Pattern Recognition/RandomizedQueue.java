@@ -4,7 +4,7 @@
  * unform random: We pick an element from a distribution i.e, uniform
  * in simple words the probability of picking a object is equal to others.
  */
-    
+
 import edu.princeton.cs.algs4.StdIn;
 import edu.princeton.cs.algs4.StdRandom;
 
@@ -39,7 +39,7 @@ public class RandomizedQueue<Item> implements Iterable<Item> {
 
     /**
      *            Checks if the queue is empty.
-     * 
+     *
      * @return    True if the queue is empty else false.
      */
     public boolean isEmpty() {
@@ -48,7 +48,7 @@ public class RandomizedQueue<Item> implements Iterable<Item> {
 
     /**
      *            Gives the number of objects in the queue.
-     * 
+     *
      * @return    The number of objects in the queue.
      */
     public int size() {
@@ -57,7 +57,7 @@ public class RandomizedQueue<Item> implements Iterable<Item> {
 
     /**
      *                Adds a new item to the queue.
-     *                
+     *
      * @param item    Item to be added.
      */
     public void enqueue(Item item) {
@@ -65,8 +65,6 @@ public class RandomizedQueue<Item> implements Iterable<Item> {
             throw new IllegalArgumentException("Bad Input");
         }
         Node newNode = new Node(item);
-        // if queue is empty then just skip assiging it to first i.e,
-        // null as in Constructor.
         if (!this.isEmpty()) {
             newNode.next = first;
         }
@@ -76,7 +74,7 @@ public class RandomizedQueue<Item> implements Iterable<Item> {
 
     /**
      *            Removes an random item form the queue.
-     * 
+     *
      * @return    The randomly removed Item.
      */
     public Item dequeue() {
@@ -111,11 +109,7 @@ public class RandomizedQueue<Item> implements Iterable<Item> {
         return toReturn;
     }
 
-    /**
-     *            Get a random item from the queue.
-     * 
-     * @return    Returns a random element from the queue.
-     */
+    // return a random item (but do not remove it)
     public Item sample() {
         if (this.isEmpty()) {
             throw new NoSuchElementException("The queue is empty");
@@ -129,21 +123,11 @@ public class RandomizedQueue<Item> implements Iterable<Item> {
         return temp.item;
     }
 
-    
-    /**
-     * Returns a Iterator that iterates random.
-     */
+    // return an independent iterator over items in random order
     public Iterator<Item> iterator() {
         return new RandomizedIterator();
     }
 
-    /**
-     *            Gives an Iterator to iterate through for-each loop.
-     *            documentation of iterator:
-     *            https://docs.oracle.com/javase/8/docs/api/java/util/Iterator.html
-     * 
-     * @return    A dequeIterator to iterator over the deck.
-     */
     private class RandomizedIterator implements Iterator<Item> {
 
         private final Item[] toIterateOver;

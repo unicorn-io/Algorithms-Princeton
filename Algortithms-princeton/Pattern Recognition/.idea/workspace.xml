@@ -1,7 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7f081cae-5bf7-4083-8a83-f2740d3d5865" name="Default Changelist" comment="" />
+    <list default="true" id="7f081cae-5bf7-4083-8a83-f2740d3d5865" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Percolation/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Percolation/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Percolation/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Percolation/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Percolation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Percolation/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../queues/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../queues/.idea/checkstyle-idea.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../queues/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../queues/.idea/codeInsightSettings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../queues/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../queues/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../queues/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../queues/.idea/externalDependencies.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../queues/.idea/file.template.settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../queues/.idea/fileTemplates/includes/File Header.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../queues/.idea/fileTemplates/internal/AnnotationType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../queues/.idea/fileTemplates/internal/Class.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../queues/.idea/fileTemplates/internal/Enum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../queues/.idea/fileTemplates/internal/Interface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../queues/.idea/fileTemplates/internal/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../queues/.idea/fileTemplates/internal/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../queues/.idea/findbugs-idea.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../queues/.idea/inspectionProfiles/Algorithms__Part_I.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../queues/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../queues/.idea/libraries/algs4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../queues/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../queues/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../queues/.idea/saveactions_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../queues/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../queues/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../queues/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../queues/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../queues/.lift/algs4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../queues/.lift/checkstyle-coursera.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../queues/.lift/checkstyle-lift.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../queues/.lift/checkstyle-suppressions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../queues/.lift/spotbugs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../queues/Algorithms, Part I.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../queues/Deque$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../queues/Deque$DequeIterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../queues/Deque$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../queues/Deque.java" beforeDir="false" afterPath="$PROJECT_DIR$/../queues/Deque.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../queues/RandomizedQueue$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../queues/RandomizedQueue$RandomizedIterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../queues/RandomizedQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../queues/RandomizedQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../queues/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../queues/distinct.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../queues/duplicates.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../queues/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../queues/mediumTale.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../queues/permutation10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../queues/permutation4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../queues/permutation5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../queues/permutation6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../queues/permutation8.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../queues/queues-submit.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../queues/queues.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../queues/queues.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../queues/tale.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../queues/tinyTale.txt" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,7 +76,30 @@
     </option>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/RandomizedQueue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="283">
+              <caret line="71" selection-start-line="71" selection-end-line="71" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#1051#1052#0" expanded="true" />
+                <element signature="e#1092#1093#0" expanded="true" />
+                <element signature="e#1254#1255#0" expanded="true" />
+                <element signature="e#1290#1291#0" expanded="true" />
+                <element signature="e#3210#3211#0" expanded="true" />
+                <element signature="e#3257#3258#0" expanded="true" />
+                <element signature="e#3870#3871#0" expanded="true" />
+                <element signature="e#3932#3933#0" expanded="true" />
+                <element signature="e#4368#4376#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -25,6 +107,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -39,6 +124,7 @@
         <option value="$PROJECT_DIR$/src/FastCollinearPoints.java" />
         <option value="$PROJECT_DIR$/FastCollinearPoints.java" />
         <option value="$PROJECT_DIR$/test.java" />
+        <option value="$PROJECT_DIR$/RandomizedQueue.java" />
       </list>
     </option>
   </component>
@@ -48,12 +134,12 @@
     <option name="width" value="820" />
     <option name="height" value="620" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -65,14 +151,15 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549390051094" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/algs4.jar!/" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562577222283" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -91,7 +178,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FastCollinearPoints">
+  <component name="RunManager" selected="Application.RandomizedQueue">
     <configuration name="BruteCollinearPoints" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BruteCollinearPoints" />
       <module name="Algorithms, Part I" />
@@ -116,18 +203,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Pattern Recognition" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+    <configuration name="Point" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Point" />
+      <module name="Algorithms, Part I" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Point" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Point" />
+    <configuration name="RandomizedQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RandomizedQueue" />
       <module name="Algorithms, Part I" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -144,18 +228,18 @@
     <list>
       <item itemvalue="Application.BruteCollinearPoints" />
       <item itemvalue="Application.Point" />
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.FastCollinearPoints" />
       <item itemvalue="Application.test" />
       <item itemvalue="Application.FastCollinearPoints1" />
+      <item itemvalue="Application.RandomizedQueue" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RandomizedQueue" />
         <item itemvalue="Application.FastCollinearPoints" />
         <item itemvalue="Application.FastCollinearPoints1" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.Point" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -174,11 +258,12 @@
       <workItem from="1547722845349" duration="472000" />
       <workItem from="1547889087434" duration="2120000" />
       <workItem from="1549389269516" duration="817000" />
+      <workItem from="1562577129911" duration="301000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5431000" />
+    <option name="totallyTimeSpent" value="5732000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -192,7 +277,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17583893" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1785235" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24966443" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -262,6 +347,42 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/RandomizedQueue.java</url>
+          <line>161</line>
+          <properties class="RandomizedQueue" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/RandomizedQueue.java</url>
+          <line>62</line>
+          <properties class="RandomizedQueue" method="enqueue">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/RandomizedQueue.java</url>
+          <line>79</line>
+          <properties class="RandomizedQueue" method="dequeue">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/RandomizedQueue.java</url>
+          <line>162</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/out/production/Pattern Recognition/FastCollinearPoints.class" />
@@ -361,6 +482,26 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RandomizedQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="71" selection-start-line="71" selection-end-line="71" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#1051#1052#0" expanded="true" />
+            <element signature="e#1092#1093#0" expanded="true" />
+            <element signature="e#1254#1255#0" expanded="true" />
+            <element signature="e#1290#1291#0" expanded="true" />
+            <element signature="e#3210#3211#0" expanded="true" />
+            <element signature="e#3257#3258#0" expanded="true" />
+            <element signature="e#3870#3871#0" expanded="true" />
+            <element signature="e#3932#3933#0" expanded="true" />
+            <element signature="e#4368#4376#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

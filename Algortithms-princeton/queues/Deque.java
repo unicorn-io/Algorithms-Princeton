@@ -1,5 +1,4 @@
 /**
- *  @author unicorn-io
  *  Deque Implementation
  *  A deque is a sub-type of queue that allows 
  *  Insertion and Removal at both the ends
@@ -145,6 +144,14 @@ public class Deque<Item> implements Iterable<Item> {
     public Iterator<Item> iterator() {
         return new DequeIterator();
     }
+
+    /**
+     *            Gives an Iterator to iterate through for-each loop.
+     *            documentation of iterator:
+     *            https://docs.oracle.com/javase/8/docs/api/java/util/Iterator.html
+     * 
+     * @return    A dequeIterator to iterator over the deck.
+     */
     private class DequeIterator implements Iterator<Item>
     {
         private Node current = first;
