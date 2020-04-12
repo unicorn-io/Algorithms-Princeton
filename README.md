@@ -5,4 +5,5 @@
 <ul>
 <li>Algorithms I - Princeton University (Coursera)</li>
 <li>Machine Learning - Stanford (Coursera)</li>
+  <li>DeepLearning Specialization - deeplearning.ai (Coursera)</li>
 </ul>
